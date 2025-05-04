@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Karen👋
 
-<!--
-**odairakaren/odairakaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I am a student and I am studying at [Rocketseat].(https://rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- ⚡Main Language: `Javascript`
+- 🎉Frontend: `HTML5`, `CSS3`, `Javascript`
+- 🎨Layout Design: `Figma`
+- 📦Version code control: `Github`
+- 🔨Tools: `VsCode`
+- 🌏I'm mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 👤LinkedIn:https://www.linkedin.com/in/karenodaira/
+
